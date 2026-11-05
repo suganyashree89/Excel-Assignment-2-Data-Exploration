@@ -32,6 +32,7 @@ Kitchen:  Coffee Maker
 Unknown:  Backpack (category information requires verification)
 
 📈 Dataset Summary
+
 Metric	Value
 Total Products	               5
 Total Brands	                 5
@@ -66,12 +67,14 @@ Product price comparison
 Business intelligence and dashboard development
 
 ⚠️ Data Quality Notes
+
 The Backpack category and subcategory are marked as UNKNOWN.
 Currency information should be confirmed.
 Product IDs should be checked for consistency.
 Missing category values should be reviewed before performing analysis.
 
 📌 Conclusion
+
 This Product Details Database provides a foundation for product inventory analysis, category management, and business intelligence reporting. It can be extended with additional product records and integrated into SQL databases or visualization tools for deeper analysis.
 
 Project: Product Details Database
