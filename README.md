@@ -1,4 +1,5 @@
 Product Details Database
+
 📌 Project Overview
 The Product Details Database is a structured dataset containing product information across multiple categories, including Electronics, Fashion, and Kitchen appliances.
 This dataset helps organize and manage product details such as product ID, product name, brand, product price, selling price, quantity, and product category.
