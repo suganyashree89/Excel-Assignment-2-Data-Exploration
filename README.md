@@ -38,6 +38,20 @@ Original Price and Selling Price are identical for all products.
 The dataset can be analyzed using:
 Microsoft Excel
 
+⚠️ Data Quality Notes
+The Backpack record has a missing Category value.
+Its Category Label is marked as UNKNOWN.
+Missing category information should be reviewed during data cleaning.
+
+🎯 Purpose
+This dataset can be used for:
+Product data analysis
+Category classification
+Data cleaning and preprocessing
+Exploratory Data Analysis (EDA)
+Brand and price analysis
+Inventory analysis
+
 🎯 Project Objectives
 Maintain product information systematically.
 Analyze product prices and quantities.
